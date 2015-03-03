@@ -1,18 +1,16 @@
 body {
-    background-color: #D2B48C;https://circuits.generalassemb.ly/student/32/code_challenge/challenges/47#css-editor-container
+    background-color: #D2B48C;
+    color: #3c4142;
+  	font-family: 'Times New Roman', georgia, serif;
+    font-size: 20px;
+    text-align:left;
 }
 
 h1 {
     color: #000080;
-    text-align: left;
   	font-size: 50px;
 }
 h2	{
-  	color: 3c4142;
-  	text-align: left;
 }
 p {
-    color: 3c4142;
-  	font-family: "Times New Roman";
-    font-size: 20px;
 }
